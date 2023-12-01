@@ -11,3 +11,8 @@ Currently, I am expanding my knowledge in the area of the 5 most important (in m
 3) English language - serves as a lingua franca in IT industry
 4) Soft skills - enabling teamwork and effective communication
 5) General knowledge of software testing - testers are obliged to know the terminology used and its execution
+
+
+CERTIFICATES -> https://drive.google.com/drive/u/0/folders/14zGk4EdkI25S9DYPmEYYa7udhDfPS38V
+
+
