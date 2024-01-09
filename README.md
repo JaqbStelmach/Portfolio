@@ -4,7 +4,7 @@ My name is Jakub, I am 24 years old, and nearly one year ago I have taken up dev
 1) Soft skills
 2) English
 3) Databases testing and improving SQL langauge
-4) well-grounded knowledge in the wide scope of testing
+4) Well-grounded knowledge in the wide scope of testing
 5) API testing
 
 
